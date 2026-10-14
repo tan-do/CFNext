@@ -1,0 +1,14 @@
+{
+  "name": "cfnext-worker",
+  "main": "CFNext-小说混淆版.js",
+  "vars": {
+    "U": "118a2341-dcf0-4069-b94c-7bced3e2ec85"
+  },
+  "kv_namespaces": [
+    {
+      "binding": "K",
+      "id": "fd3a427b7a904555a0b165829cce3b05"
+    }
+  ],
+  
+}
